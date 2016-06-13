@@ -27,6 +27,6 @@
 
 ### 应用截图
 
-![home](http://github.com/lostinscau/lost-found/raw/master/screenshots/home.png)
-![add](http://github.com/lostinscau/lost-found/raw/master/screenshots/add.png)
-![show](http://github.com/lostinscau/lost-found/raw/master/screenshots/show.png)
+![home](https://raw.githubusercontent.com/lostinscau/lost-found/master/screenshots/home.png)
+![add](https://raw.githubusercontent.com/lostinscau/lost-found/master/screenshots/add.png)
+![show](https://raw.githubusercontent.com/lostinscau/lost-found/master/screenshots/show.png)
