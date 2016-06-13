@@ -27,6 +27,6 @@
 
 ### 应用截图
 
-![home](http://zone-10026896.file.myqcloud.com/home2.png)
-![add](http://zone-10026896.file.myqcloud.com/add.png)
-![show](http://zone-10026896.file.myqcloud.com/show.png)
+![home](http://github.com/lostinscau/lost-found/raw/master/screenshots/home.png)
+![add](http://github.com/lostinscau/lost-found/raw/master/screenshots/add.png)
+![show](http://github.com/lostinscau/lost-found/raw/master/screenshots/show.png)
