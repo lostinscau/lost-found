@@ -1,4 +1,9 @@
-# 失物招领
+# :imp:失物招领:imp:
+
+| *developer* |
+|---|---|
+|罗霄|1501210962|
+|刘彬彬|1501210946|
 
 ---
 
@@ -22,6 +27,7 @@
   - 在mongodb里面建立数据库，并把`mongodb://localhost:27017/test`里面的`test`替换为新建的数据库的名字
   - 替换`var url = client.getAuthorizeURL('site', 'STATE', 'snsapi_userinfo')`里面的`site`为自己的域名
 - 在微信公众号里添加菜单指向该应用
+- 应用默认使用80端口，可以修改
 
 ---
 
