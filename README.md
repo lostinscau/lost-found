@@ -36,3 +36,7 @@
 <img src="https://raw.githubusercontent.com/lostinscau/lost-found/master/screenshots/home.png" width="250"/>
 <img src="https://raw.githubusercontent.com/lostinscau/lost-found/master/screenshots/add.png" width="250"/>
 <img src="https://raw.githubusercontent.com/lostinscau/lost-found/master/screenshots/show.png" width="250"/>
+
+### 测试公众号
+
+<img src="https://raw.githubusercontent.com/lostinscau/lost-found/master/screenshots/2code.png" width="250"/>
